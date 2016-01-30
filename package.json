@@ -1,0 +1,21 @@
+{
+  "name": "cordova-kendoui-tabstrip-mfp",
+  "version": "1.0.0",
+  "description": "IBM MobileFirstPlatform Cordova Application with Kendo UI Mobile - TabStrip Template",
+  "keywords": [
+    "mfp",
+    "cordova",
+    "kendo",
+    "ui",
+    "hybrid"
+  ],
+  "author": "kashyapa78@hotmail.com",
+  "scripts": {
+      "postinstall":"bower install"
+  },
+  "dependencies": {
+    "bower": "^1.7.2",
+    "gulp":"^3.9.0",
+    "gulp-bower":"^0.0.11"
+  }
+}

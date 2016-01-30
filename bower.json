@@ -1,0 +1,10 @@
+{
+  "name": "cordova-kendoui-tabstrip-mfp",
+  "authors": [
+    "kashyapa78@hotmail.com"
+  ],
+  "description": "IBM MobileFirstPlatform Cordova Application with Kendo UI Mobile - TabStrip Template",
+  "dependencies": {
+      "kendo-ui-appbuilder-core": "*"
+  }
+}
